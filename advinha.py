@@ -4,12 +4,12 @@ i = 0
 while i < 8000000:
     i = i + 1
 i = 0
-print("Calculando probabilidades...")
-while i < 80000000:
-    i = i + 1
-i = 0
 print("Lendo mentes...")
 while i < 16000000:
+    i = i + 1
+i = 0
+print("Calculando probabilidades...")
+while i < 80000000:
     i = i + 1
 i = 0
 print("Advinhando o resultado...")
